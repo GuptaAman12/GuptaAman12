@@ -80,12 +80,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=GuptaAman12&hide_border=true&theme=dark"
-  alt="GitHub Streak"
-  />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuptaAman12&hide_border=true&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
