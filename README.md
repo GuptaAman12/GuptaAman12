@@ -21,66 +21,6 @@
 
 ---
 
-## 💼 Experience
-
-### Python Developer Intern - Lantrasoft Labs Pvt. Ltd.
-
-**Feb 2026 – Present**
-
-* Built an automated data synchronization engine syncing **6 interrelated entities in production**, processing **18,000 records in under 5 minutes** using MD5 checksum diffing.
-* Engineered atomic, constraint-based concurrency control validated under simultaneous multi-worker execution with **zero duplicate-processing incidents across all tests**.
-* Containerized a **2-database pipeline using MySQL and PostgreSQL with Docker** and extended it to a new API-based integration one month into development.
-
-### Web Development Intern - Coding Blocks Pvt. Ltd.
-
-**Jun 2024 – Aug 2024**
-
-* Built an interactive quiz platform using **HTML, CSS, and JavaScript**.
-* Explored ML-based personalization techniques to improve user engagement.
-
----
-
-## 🚀 Featured Projects
-
-### 📈 AI Multi-Agent Quantitative Stock Analysis Platform
-
-Designed a multi-agent pipeline using **CrewAI** to automate:
-
-* Data collection
-* Statistical analysis
-* Risk modeling
-* Report generation
-* Stock comparison against benchmark indices
-
-Also built a **FastAPI + LangGraph validation service** exposing the **Agent-to-Agent (A2A) protocol** that:
-
-* Extracts quantitative claims from reports
-* Cross-checks them using web search
-* Generates LLM-based reasonableness summaries for external AI agents
-
-`CrewAI` · `LangGraph` · `FastAPI` · `Async Python` · `Agentic AI`
-
----
-
-### 🎙️ Agent Assist & Resolution Bot
-
-A voice-based AI customer support bot that implements the following pipeline:
-
-**Speech → Intent Detection → RAG Retrieval → LLM Response → Voice Output**
-
-Features:
-
-* Speech-to-text using AssemblyAI
-* Intent detection
-* Semantic knowledge-base retrieval using sentence-transformers
-* LLM-powered responses using Groq-hosted Llama models
-* Text-to-speech responses using gTTS
-* Automated AI voice takeover for routine customer issues
-
-`FastAPI` · `AssemblyAI` · `Sentence Transformers` · `RAG` · `Groq` · `gTTS`
-
----
-
 ## 🛠️ Technical Skills
 
 ### 💻 Languages
@@ -134,14 +74,6 @@ Features:
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
----
-
-## 📜 Certifications
-
-* 🏆 IBM RAG and Agentic AI
-* 🧠 AI for Real-World Applications - IIT Kharagpur & TCS iON
-* 📊 Hero Vired Data Analytics Bootcamp
 
 ---
 
