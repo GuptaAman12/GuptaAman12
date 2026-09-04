@@ -81,26 +81,13 @@
 
 <p align="center">
 
-<img
- height="170"
- src="https://github-stats-extended.vercel.app/api?username=GuptaAman12&show_icons=true&theme=dark&hide_border=true"
- alt="Aman's GitHub Stats"
-/>
-</p>
-
-<p align="center">
-
-<img
- src="https://github-readme-streak-stats.herokuapp.com/?user=GuptaAman12&hide_border=true&theme=dark"
- alt="GitHub Streak"
-/>
+  <img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=GuptaAman12&hide_border=true&theme=dark"
+  alt="GitHub Streak"
+  />
 
 </p>
 
-<img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=GuptaAman12&theme=react-dark&hide_border=true"
-    alt="Aman's GitHub Activity Graph"
-/>
 ---
 
 ## 🌐 Connect With Me
