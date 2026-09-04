@@ -83,13 +83,13 @@
 
 <img
  height="170"
- src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GuptaAman12&show_icons=true&theme=default&hide_border=true"
+ src="https://github-stats-extended.vercel.app/api?username=GuptaAman12&show_icons=true&theme=default&hide_border=true"
  alt="Aman's GitHub Stats"
 />
 
 <img
  height="170"
- src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuptaAman12&layout=compact&hide_border=true"
+ src="https://github-stats-extended.vercel.app/api/top-langs/?username=GuptaAman12&layout=compact&hide_border=true"
  alt="Most Used Languages"
 />
 
