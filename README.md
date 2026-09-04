@@ -99,7 +99,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=GuptaAman12&theme=react-dark&hide_border=true"
+    src="https://activity-graph.herokuapp.com/graph?username=GuptaAman12&theme=react-dark&hide_border=true"
     alt="Aman's GitHub Activity Graph"
   />
 </p>
@@ -117,7 +117,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-    <a href="https://drive.google.com/file/d/1Jeyk8Dcei-mIrGu7AJb4-lR36BPhsx3S/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1Jeyk8Dcei-mIrGu7AJb4-lR36BPhsx3S/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-333333?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
 
