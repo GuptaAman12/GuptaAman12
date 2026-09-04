@@ -97,12 +97,10 @@
 
 </p>
 
-<p align="center">
-  <img
-    src="https://activity-graph.herokuapp.com/graph?username=GuptaAman12&theme=react-dark&hide_border=true"
+<img
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=GuptaAman12&theme=react-dark&hide_border=true"
     alt="Aman's GitHub Activity Graph"
-  />
-</p>
+/>
 ---
 
 ## 🌐 Connect With Me
